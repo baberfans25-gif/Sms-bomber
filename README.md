@@ -1,2 +1,0 @@
-# Sms-bomber
-Auto viwe
